@@ -54,12 +54,7 @@ py manage.py createsuperuser
 
 ---
 
-## HOW TO RUN THIS PROJECT
-- Install Python(3.7.6) (Dont Forget to Tick Add to Path while installing Python)
-- Download This Project Zip Folder and Extract it
-- Move to project folder in Terminal. Then run following Commands :
 
-```
 python -m pip install -r requirements. txt
 ```
 
@@ -74,7 +69,3 @@ http://127.0.0.1:8000/
 ```
 
 
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoders)
